@@ -1,0 +1,33 @@
+header{
+    background:local
+    blue;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font: white ;
+    text-align: center;
+    border-radius: 10px;
+}
+
+div{
+    display: flex;
+}
+section{
+    border: 2px solid blue ;
+    border-width: 2px;
+    border-radius: 30px;
+    margin-top: 5%;
+    align-items: center;
+    margin: 10px;
+    justify-content: center;
+    padding: 50px;
+    text-align: center;
+    font-size:small ;
+    
+}
+.pdp {
+    position:relative; top:20px; left:30px, 
+
+}
+
+.logo{
+    width: 100px;
+}
